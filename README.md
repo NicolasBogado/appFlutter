@@ -45,7 +45,7 @@ Haz tus Cambios y Pruebas
 Envía un Pull Request
 
 # Capturas de Pantalla
-Pantalla Principal
+## Pantalla Principal
 ![Pantalla Principal](https://github.com/user-attachments/assets/955dc7de-8462-4448-bde2-135e79de3ccb)
 
 ## Agregar Tarea
